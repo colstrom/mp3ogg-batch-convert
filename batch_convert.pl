@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 #########################################################
 # Batch Convert, an addon for Loran T. Hughes' 'mp3ogg' #
